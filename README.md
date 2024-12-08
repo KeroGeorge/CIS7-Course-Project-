@@ -24,5 +24,5 @@ The program is written in C++ and employs a simple yet effective approach for th
 
 ### How to Use:
 1. **Clone the repository** or **download** the source code.
-2. **Compile the program**:
+2. **Compile the program**
  
